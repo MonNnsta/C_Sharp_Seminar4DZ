@@ -1,0 +1,15 @@
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/bin/Debug/net6.0/Task25
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/bin/Debug/net6.0/Task25.deps.json
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/bin/Debug/net6.0/Task25.runtimeconfig.json
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/bin/Debug/net6.0/Task25.dll
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/bin/Debug/net6.0/Task25.pdb
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.csproj.AssemblyReference.cache
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.AssemblyInfoInputs.cache
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.AssemblyInfo.cs
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.csproj.CoreCompileInputs.cache
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.dll
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/refint/Task25.dll
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.pdb
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/Task25.genruntimeconfig.cache
+/Users/monnnsta/Desktop/С#_Seminar4DZ/Task25/obj/Debug/net6.0/ref/Task25.dll
